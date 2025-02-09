@@ -7,7 +7,6 @@
 
 
 ## **This modpack is still experimental** 
-This modpack is currently available only for version **1.20.1**. I will update it regularly and try other mods when something interesting is found. Stay tuned!
 
 <hr />
 
